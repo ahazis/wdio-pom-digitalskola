@@ -5,8 +5,8 @@
     "@wdio/spec-reporter": "^9.0.7"
 
     
-## How to run,
-npm init -y,
-npm init wdio@latest/npm install,
-npm run wdio,
+## How to run
+"npm init -y",
+"npm init wdio@latest/npm install",
+"npm run wdio",
 "wdio": "wdio run wdio.conf.js" -> save in packege.json,
