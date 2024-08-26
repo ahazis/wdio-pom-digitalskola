@@ -10,3 +10,10 @@
     "npm init wdio@latest/npm install",
     "npm run wdio",
     "wdio": "wdio run wdio.conf.js" -> save in packege.json,
+
+
+## tambahkan script di package.json
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "wdio": "wdio run wdio.conf.js"
+    },
